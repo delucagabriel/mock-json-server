@@ -6,5 +6,11 @@
       "status":"ok",
       "type":"remove"
     }
+  ],
+    "teste":[
+    {
+      "id": 1,
+      "status":"ok"
+    }
   ]
 }
