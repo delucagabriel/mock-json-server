@@ -1,10 +1,1 @@
-
-{
-  "limites": [
-    { 
-      "receiveCompanyId": "teste", 
-      "status": "ok", 
-      "type": "remove" 
-    },
-  ],
-}
+{"limites":[{"receiveCompanyId":"teste","status":"ok","type":"remove"}]}
