@@ -1,1 +1,6 @@
 
+{
+  "limites": [
+    { receiveCompanyId: "teste", status: "ok", type: "remove" }
+  ],
+}
